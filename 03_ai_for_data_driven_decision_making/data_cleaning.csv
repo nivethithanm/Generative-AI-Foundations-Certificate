@@ -1,0 +1,11 @@
+Order ID,Customer Name,Product,Quantity,Price per Unit,Total Sales,Order Date,Region
+1001,Amit,Shoes,1,1000,1000,2024-01-10,North
+1002,Priya,Backpack,2,500,1000,2024/02/15,South
+1003,charlie,Notebook,,300,,15-Mar-2024,East
+1004,Ravi,Shoes,1,1000,1000,2024-04-20,North
+1005,,Notebook,3,300,900,April 25, 2024,East
+1006,Suresh,Backpack,2,,,2024-05-30,souht
+1007,Eve,Pen,1,500,500,,West
+1008,Meena,notebook,,300,600,07-06-2024,
+1009,Grace,Shoes,2,1000,,2024-07-15,North
+1010,Henry,Backpack,1,500,500,2024-08-01,West
